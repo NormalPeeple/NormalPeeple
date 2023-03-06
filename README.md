@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'am Self-taught developer who work on web development and machine learning
+
 <!--
 **NormalPeeple/NormalPeeple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
