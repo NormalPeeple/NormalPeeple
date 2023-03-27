@@ -2,8 +2,9 @@
 
 I'am Self-taught developer who work on web development and machine learning
 
-[![Fauzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NormalPeeple)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NormalPeeple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Fauzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NormalPeeple&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NormalPeeple&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NormalPeeple/NormalPeeple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
